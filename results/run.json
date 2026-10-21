@@ -1,0 +1,43 @@
+{
+  "years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "baseline_year": 2017,
+  "records": 1892160,
+  "states": {
+    "normal": 1738638,
+    "pre_cod": 88992,
+    "stop": 29169,
+    "missing": 27846,
+    "sensor": 3869,
+    "stop_grid": 2611,
+    "curtailed": 864,
+    "icing": 171
+  },
+  "trend_index_nb_pct_per_year": {
+    "1": -0.18,
+    "2": -0.048,
+    "3": -0.1,
+    "4": -0.091,
+    "5": 0.071,
+    "6": -0.267
+  },
+  "underperformance_episodes": 3,
+  "lost_energy_mwh": {
+    "actual_mwh": 176216.7,
+    "lost_downtime_mwh": 2891.6,
+    "lost_grid_or_park_stop_mwh": 179.5,
+    "lost_curtailment_mwh": 32.8,
+    "lost_icing_mwh": 2.3,
+    "performance_gap_mwh": 82.1,
+    "missing_hours": 4641.0,
+    "gb_lost_downtime_mwh": 5614.3,
+    "gb_lost_curtailment_mwh": 0.0,
+    "gb_lost_performance_mwh": -840.6
+  }
+}

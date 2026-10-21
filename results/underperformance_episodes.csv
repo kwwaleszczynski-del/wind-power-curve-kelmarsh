@@ -1,0 +1,4 @@
+turbine,start,end,months,mean_index_nb,mean_index_curve_rel,confirmed_by_power_curve
+1,2021-07,2021-08,2,0.9664,1.0002,False
+6,2016-10,2017-01,4,0.9399,0.9951,False
+6,2019-12,2020-01,2,0.9559,1.0045,False
