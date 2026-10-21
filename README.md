@@ -1,6 +1,6 @@
 # Wind turbine power curves and underperformance on open SCADA data
 
-![tests](https://github.com/OWNER/wind-power-curve-kelmarsh/actions/workflows/ci.yml/badge.svg)
+![tests](https://github.com/kwwaleszczynski-del/wind-power-curve-kelmarsh/actions/workflows/ci.yml/badge.svg)
 
 Performance analysis of the **Kelmarsh wind farm** (UK, 6 x Senvion MM92, 12.3 MW) from its open 10-minute SCADA
 data, 2016-2021: data cleaning with the turbines' own event logs, **power curves following IEC 61400-12-1**
